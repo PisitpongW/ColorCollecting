@@ -1,0 +1,12 @@
+# Blender MTL File: 'stonesblend.blend'
+# Material Count: 1
+
+newmtl vertex
+Ns 539.215686
+Ka 1.000000 1.000000 1.000000
+Kd 0.957640 1.000000 0.968130
+Ks 0.250000 0.250000 0.250000
+Ke 0.478820 0.500000 0.484065
+Ni 1.000000
+d 1.000000
+illum 2
