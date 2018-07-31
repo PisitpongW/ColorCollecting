@@ -131,9 +131,9 @@ public class GameController : MonoBehaviour
                     col.a=(float)i;
                     fallObjectMat.color=col;
 
-                    col=threshMat.color;
+                    /*col=threshMat.color;
                     col.a=(float)i;
-                    threshMat.color=col;
+                    threshMat.color=col;*/
                 }
                 print("Intensity UP");
             }
@@ -146,9 +146,9 @@ public class GameController : MonoBehaviour
                     col.a=(float)i;
                     threshMat.color=col;
 
-                    col=threshMat.color;
+                    /*col=threshMat.color;
                     col.a=(float)i;
-                    threshMat.color=col;
+                    threshMat.color=col;*/
                 }
                 print("Intensity DOWN");
             }
